@@ -1,0 +1,8 @@
+# macOS system files
+.DS_Store
+
+# Editor settings
+.vscode/
+
+# Dependency folders, if added later
+node_modules/
